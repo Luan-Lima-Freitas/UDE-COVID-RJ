@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.19)  10 JAN 2023 21:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.19)  24 JAN 2023 19:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -585,63 +585,82 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
  (c:/texlive/2022/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<fit1.pdf, id=35, 1204.5pt x 361.35pt>
+[4]
+<fit1.pdf, id=40, 1204.5pt x 361.35pt>
 File: fit1.pdf Graphic file (type pdf)
 <use fit1.pdf>
-Package pdftex.def Info: fit1.pdf  used on input line 138.
+Package pdftex.def Info: fit1.pdf  used on input line 147.
 (pdftex.def)             Requested size: 462.26999pt x 138.68184pt.
-<fit2.pdf, id=36, 1204.5pt x 361.35pt>
+<fit2.pdf, id=41, 1204.5pt x 361.35pt>
 File: fit2.pdf Graphic file (type pdf)
 <use fit2.pdf>
-Package pdftex.def Info: fit2.pdf  used on input line 140.
+Package pdftex.def Info: fit2.pdf  used on input line 149.
 (pdftex.def)             Requested size: 462.26999pt x 138.68184pt.
-<fit3.pdf, id=37, 1204.5pt x 361.35pt>
+<fit3.pdf, id=42, 1204.5pt x 361.35pt>
 File: fit3.pdf Graphic file (type pdf)
 <use fit3.pdf>
-Package pdftex.def Info: fit3.pdf  used on input line 142.
+Package pdftex.def Info: fit3.pdf  used on input line 151.
 (pdftex.def)             Requested size: 462.26999pt x 138.68184pt.
-<fit4.pdf, id=38, 1204.5pt x 361.35pt>
+<fit4.pdf, id=43, 1204.5pt x 361.35pt>
 File: fit4.pdf Graphic file (type pdf)
 <use fit4.pdf>
-Package pdftex.def Info: fit4.pdf  used on input line 144.
+Package pdftex.def Info: fit4.pdf  used on input line 153.
 (pdftex.def)             Requested size: 462.26999pt x 138.68184pt.
+ [5] [6 <./fit1.pdf> <./fit2.pdf> <./fit3.pdf> <./fit4.pdf>]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
+61.
 
-[4]
+(c:/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Overfull \hbox (0.2524pt too wide) in paragraph at lines 161--162
+\T1/lmtt/m/n/12 https://github.com/Luan-Lima-Freitas/UDE-COVID-RJ\T1/lmr/m/n/12
+ . Acesso em: 23 jan. 2023. 
+ []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5 <./fit1.pdf> <./fit2.pdf> <./fit3.pdf> <./fit4.pdf>] [6
+Overfull \hbox (5.40265pt too wide) in paragraph at lines 164--166
+[]\T1/lmr/m/n/12 FREITAS, Luan. \T1/lmr/bx/n/12 UDE-COVID-RJ\T1/lmr/m/n/12 . Ri
+o de Ja-neiro: 2022. Dis-po-ní-vel em: \T1/lmtt/m/n/12 https://
+ []
 
-]
-(./Relatorio-PIBIC-Luan-Lima-Freitas.aux) ) 
+
+Overfull \hbox (4.49487pt too wide) in paragraph at lines 168--169
+[]\T1/lmr/m/n/12 CHEN, Ricky \T1/lmr/m/it/12 et al\T1/lmr/m/n/12 . \T1/lmr/bx/n
+/12 Neu-ral Or-di-nary Dif-fe-ren-tial Equa-ti-ons. \T1/lmr/m/n/12 ar-Xiv:1806.
+07366v5
+ []
+
+[7] (./Relatorio-PIBIC-Luan-Lima-Freitas.aux) ) 
 Here is how much of TeX's memory you used:
- 13927 strings out of 475071
- 264894 string characters out of 5782907
- 595477 words of memory out of 5000000
- 35062 multiletter control sequences out of 15000+600000
- 528827 words of font info for 66 fonts, out of 8000000 for 9000
+ 13972 strings out of 475071
+ 265581 string characters out of 5782907
+ 592477 words of memory out of 5000000
+ 35102 multiletter control sequences out of 15000+600000
+ 532137 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 85i,8n,90p,906b,411s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/en
-c/dvips/lm/lm-rm.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2022/t
-exmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2022/texmf-dist/fonts/en
-c/dvips/lm/lm-mathex.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.e
-nc}<c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/202
-2/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2022/texmf-dist/fonts
-/type1/public/lm/lmbxi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/
-lmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/tex
-live/2022/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2022/texmf-dis
-t/fonts/type1/public/lm/lmmib10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/pub
-lic/lm/lmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:
-/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2022/texm
-f-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1
-/public/lm/lmsy8.pfb>
-Output written on Relatorio-PIBIC-Luan-Lima-Freitas.pdf (7 pages, 4275858 bytes
+ 85i,8n,90p,925b,411s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/font
+s/enc/dvips/lm/lm-ec.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.e
+nc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{c:/texlive/2022/t
+exmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2022/texmf-dist/fonts/en
+c/dvips/lm/lm-mathsy.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-math
+ex.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive
+/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2022/texmf-dist/f
+onts/type1/public/lm/lmbxi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public
+/lm/lmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:
+/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2022/texmf
+-dist/fonts/type1/public/lm/lmmib10.pfb><c:/texlive/2022/texmf-dist/fonts/type1
+/public/lm/lmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr8.pfb
+><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2022/
+texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/t
+ype1/public/lm/lmsy8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt
+12.pfb>
+Output written on Relatorio-PIBIC-Luan-Lima-Freitas.pdf (8 pages, 4309864 bytes
 ).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 129 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
